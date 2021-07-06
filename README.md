@@ -1,6 +1,9 @@
 # quizzler
 
-A new Flutter project.
+Quizzler is a Quiz App built with flutter<br>
+<br>
+![quizzler-demo](https://user-images.githubusercontent.com/43815519/124586944-b2aa2600-de74-11eb-87a0-2e83d9d6b588.gif)
+
 
 ## Getting Started
 
